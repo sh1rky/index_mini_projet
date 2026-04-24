@@ -1,0 +1,1 @@
+Le machine learning permet aux ordinateurs d'apprendre à partir de données sans être explicitement programmés.
